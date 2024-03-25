@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA Bean VS POJO VS Spring Bean.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA Bean VS POJO VS Spring Bean.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA Bean VS POJO VS Spring Bean.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA Bean VS POJO VS Spring Bean.md"
+                "file": "README.md"
               }
             }
           }
@@ -229,12 +229,12 @@
   },
   "active": "6e71c0accb1d9823",
   "lastOpenFiles": [
+    "JAVA Bean VS POJO VS Spring Bean.md",
     "어노테이션 정리.md",
     "Spring container, Bean Factory, Application Context.md",
     "try-with-resources.md",
     "Spring Boot.md",
     "README.md",
-    "JAVA Bean VS POJO VS Spring Bean.md",
     "새로운 키워드.md",
     "강한 결합.md",
     "무제 파일.canvas"
