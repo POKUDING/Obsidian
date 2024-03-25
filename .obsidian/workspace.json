@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring container.md",
+                "file": "Spring container, Bean Factory, Application Context.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,14 +69,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring container.md",
+                "file": "Spring container, Bean Factory, Application Context.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed770164fb6d9970",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring container, Bean Factory, Application Context.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e71c0accb1d9823",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JAVA Bean VS POJO VS Spring Bean.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -142,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring container.md",
+                "file": "JAVA Bean VS POJO VS Spring Bean.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring container.md",
+                "file": "JAVA Bean VS POJO VS Spring Bean.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring container.md"
+                "file": "JAVA Bean VS POJO VS Spring Bean.md"
               }
             }
           }
@@ -203,14 +227,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "83072e214bab6a21",
+  "active": "6e71c0accb1d9823",
   "lastOpenFiles": [
+    "어노테이션 정리.md",
+    "Spring container, Bean Factory, Application Context.md",
+    "try-with-resources.md",
+    "Spring Boot.md",
     "README.md",
     "JAVA Bean VS POJO VS Spring Bean.md",
-    "Spring container.md",
     "새로운 키워드.md",
     "강한 결합.md",
-    "Spring Boot.md",
     "무제 파일.canvas"
   ]
 }
