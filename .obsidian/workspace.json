@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "7c26ca458826a267",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fd0d51520db9e9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cef019ad95a1107",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "9fe1786a717df01e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring Boot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99b59f2e75f87f64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "강한 결합.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b7d2cb799b2a406",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "새로운 키워드.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0796aca014a6ce0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring container.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "558f8d2bbd7787dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring container.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bae4dc1766ab63af",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f76a7c4398168c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83072e214bab6a21",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d7969965d3e1a68b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "da8f6c499ac0c4d4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4894974631735d89",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1cc909ba47ed519",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fec0af9254075801",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Spring container.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "13abd94019809fab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Spring container.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c2ce6f6319c1f46b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e8f132a15e20a4dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Spring container.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "83072e214bab6a21",
+  "lastOpenFiles": [
+    "README.md",
+    "JAVA Bean VS POJO VS Spring Bean.md",
+    "Spring container.md",
+    "새로운 키워드.md",
+    "강한 결합.md",
+    "Spring Boot.md",
+    "무제 파일.canvas"
+  ]
+}
