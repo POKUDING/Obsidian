@@ -11,8 +11,84 @@
             "id": "1cef019ad95a1107",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Spring/Spring container, Bean Factory, Application Context.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca360507a4c7f275",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring/Bean Scope.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "626f20a12e724fb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring/PostConstruct & PreDestroy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a918fed6b602f9fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SpringBoot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7bdd8f511ca83506",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JPA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2e649df29ad03c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My first Web App by Spring.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84fea4bf95be6d55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My first Web App by Spring.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -21,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring Boot.md",
+                "file": "Spring/Spring Boot.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "강한 결합.md",
+                "file": "Spring/강한 결합.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "새로운 키워드.md",
+                "file": "Spring/새로운 키워드.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring container, Bean Factory, Application Context.md",
+                "file": "Spring/Spring container, Bean Factory, Application Context.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring container, Bean Factory, Application Context.md",
+                "file": "Spring/Spring container, Bean Factory, Application Context.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring container, Bean Factory, Application Context.md",
+                "file": "Spring/Spring container, Bean Factory, Application Context.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Spring/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,14 +181,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring Famework.md",
+                "file": "Spring/어노테이션 정리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf6d7257a1e084c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring/어노테이션 정리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c71a3a415592d94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring/어노테이션 정리.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -178,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring Famework.md",
+                "file": "My first Web App by Spring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring Famework.md",
+                "file": "My first Web App by Spring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring Famework.md"
+                "file": "My first Web App by Spring.md"
               }
             }
           }
@@ -239,17 +339,28 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "40b2059a2bcfe723",
+  "active": "84fea4bf95be6d55",
   "lastOpenFiles": [
-    "README.md",
-    "Spring Famework.md",
-    "JAVA Bean VS POJO VS Spring Bean.md",
-    "어노테이션 정리.md",
-    "Spring container, Bean Factory, Application Context.md",
-    "try-with-resources.md",
-    "Spring Boot.md",
-    "새로운 키워드.md",
-    "강한 결합.md",
+    "SpringBoot.md",
+    "My first Web App by Spring.md",
+    "JPA.md",
+    "Spring/Bean Scope.md",
+    "Spring/어노테이션 정리.md",
+    "Spring-Boot",
+    "Spring/Spring container, Bean Factory, Application Context.md",
+    "Spring",
+    "Spring/PostConstruct & PreDestroy.md",
+    "Spring/Spring Famework.md",
+    "Spring/의존성 주입 타입.md",
+    "Spring/새로운 키워드.md",
+    "Spring/Jakarta EE.md",
+    "Spring/Spring Boot.md",
+    "Spring/README.md",
+    "Spring/JAVA Bean VS POJO VS Spring Bean.md",
+    "Spring/@Qualifier VS @Primary.md",
+    "Spring/강한 결합.md",
+    "Spring/try-with-resources.md",
+    "Java Spring Framework 중요 용어 이해.md",
     "무제 파일.canvas"
   ]
 }

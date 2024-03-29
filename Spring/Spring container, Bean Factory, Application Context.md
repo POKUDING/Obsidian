@@ -39,3 +39,10 @@ BeanFactory라고 말을 할때는 빈을 생성하고 관계를 설정하는 Io
 
 ApplicationContext라고 말을 할때는 별도의 정보를 참고해서 빈의 생성, 관계 설정 등의 제어의 총괄에 초점을 맞춘 것이다.
 ```
+
+## ApplicationContext에서 Lazy initalized 를하기
+
+^27a32c
+
+- @Lazy 어노테이션을 추가하면 실질적으로 Bean이 불릴때 생성자가 호출된다.
+- Lazy initialization을 할 경우 메모리를 절약 가능하나 에러가 발생할 경우 런타임에 발견된다.
