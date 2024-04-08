@@ -32,12 +32,132 @@
             }
           },
           {
+            "id": "9c122e0ae0a11b1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring-Boot/My first Web App by Spring.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "529daecd8d746566",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring-Boot/Spring Security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "868f8295f284ea17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring-Boot/Entity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83cb220a272c94ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring-Boot/Spring Boot REST API.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da07dcb6ab305a89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring-Boot/Spring Boot REST API.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d74fa165020680a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring-Boot/Spring Boot REST API.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac1a2da3ab64b435",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring-Boot/Spring Boot REST API.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05358e0d07eac9c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring-Boot/Custom Error 처리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa27e782f97e330a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithme/Floyd Warshall(플로이드 와샬) 알고리즘.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "626f20a12e724fb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/PostConstruct & PreDestroy.md",
+                "file": "Algorithme/다익스트라(Dijkstra) 알고리즘.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d689b6037649bfd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring-Boot/JPA.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SpringBoot.md",
+                "file": "Spring-Boot/SpringBoot.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JPA.md",
+                "file": "Spring-Boot/JPA.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +193,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My first Web App by Spring.md",
+                "file": "Spring-Boot/My first Web App by Spring.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +205,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My first Web App by Spring.md",
-                "mode": "source",
+                "file": "Spring-Boot/JPA.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -212,7 +332,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -241,7 +361,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "CommandLineRunner",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -258,7 +378,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -278,7 +399,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My first Web App by Spring.md",
+                "file": "Spring-Boot/JPA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +416,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My first Web App by Spring.md",
+                "file": "Spring-Boot/JPA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +439,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My first Web App by Spring.md"
+                "file": "Spring-Boot/JPA.md"
               }
             }
           }
@@ -339,28 +460,38 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "84fea4bf95be6d55",
+  "active": "d689b6037649bfd7",
   "lastOpenFiles": [
-    "SpringBoot.md",
-    "My first Web App by Spring.md",
-    "JPA.md",
-    "Spring/Bean Scope.md",
-    "Spring/어노테이션 정리.md",
-    "Spring-Boot",
-    "Spring/Spring container, Bean Factory, Application Context.md",
-    "Spring",
-    "Spring/PostConstruct & PreDestroy.md",
-    "Spring/Spring Famework.md",
-    "Spring/의존성 주입 타입.md",
-    "Spring/새로운 키워드.md",
-    "Spring/Jakarta EE.md",
-    "Spring/Spring Boot.md",
-    "Spring/README.md",
-    "Spring/JAVA Bean VS POJO VS Spring Bean.md",
     "Spring/@Qualifier VS @Primary.md",
-    "Spring/강한 결합.md",
+    "Spring-Boot/Custom Error 처리.md",
+    "Spring-Boot/Spring Security.md",
+    "Spring-Boot/Validations with Spring Boot.md",
+    "Spring-Boot/SpringBoot.md",
+    "Spring/Bean Scope.md",
+    "Spring/Jakarta EE.md",
+    "Spring/JAVA Bean VS POJO VS Spring Bean.md",
+    "Spring/PostConstruct & PreDestroy.md",
+    "Spring/README.md",
+    "Spring/Spring Boot.md",
+    "Spring/Spring container, Bean Factory, Application Context.md",
+    "Spring/Spring Famework.md",
     "Spring/try-with-resources.md",
-    "Java Spring Framework 중요 용어 이해.md",
+    "Spring/새로운 키워드.md",
+    "Spring/강한 결합.md",
+    "Spring-Boot/Spring Boot REST API.md",
+    "Spring-Boot/Entity.md",
+    "Spring-Boot/JPA.md",
+    "Spring-Boot/My first Web App by Spring.md",
+    "TicketWar Entity.md",
+    "Algorithme/다익스트라(Dijkstra) 알고리즘.md",
+    "Algorithme/Floyd Warshall(플로이드 와샬) 알고리즘.md",
+    "Algorithme",
+    "JAVA/Functional Programming.md",
+    "Spring/의존성 주입 타입.md",
+    "Spring/어노테이션 정리.md",
+    "JAVA",
+    "Spring-Boot",
+    "Spring",
     "무제 파일.canvas"
   ]
 }

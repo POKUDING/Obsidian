@@ -1,5 +1,3 @@
-
-
 ## POJO
 - Plain Old Java Object 의 약자
 - 특정한 프레임워크나 라이브러리에 종속되지 않은 일반적인 자바 객체
@@ -13,5 +11,8 @@
 
 
 ## Spring Bean
+
+^803ea8
+
 - Spring에 의해 관리되는 모든 객체
 - Spring은 IOC container(Bean Factory or Application Context) 를 통해 객체를 관리
