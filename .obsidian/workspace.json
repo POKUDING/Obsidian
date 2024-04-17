@@ -557,6 +557,7 @@
   },
   "active": "a8f7e9f37d6f7453",
   "lastOpenFiles": [
+    "README.md",
     "JPAStudy/Chapter 3.md",
     "JPAStudy/Chapter 4.md",
     "JPAStudy/Chapter 2.md",
@@ -584,7 +585,6 @@
     "Spring/Jakarta EE.md",
     "Spring/JAVA Bean VS POJO VS Spring Bean.md",
     "Spring/PostConstruct & PreDestroy.md",
-    "Spring/README.md",
     "Algorithme",
     "JAVA",
     "Spring-Boot",
