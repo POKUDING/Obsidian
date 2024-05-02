@@ -253,7 +253,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring Security/1. 초기화 과정 이해.md",
+                "file": "뉴딜/SQL/240430.md",
                 "mode": "source",
                 "source": false
               }
@@ -457,7 +457,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#의문점",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -494,7 +494,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring Security/1. 초기화 과정 이해.md",
+                "file": "뉴딜/SQL/240430.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -511,7 +511,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring Security/1. 초기화 과정 이해.md",
+                "file": "뉴딜/SQL/240430.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -534,7 +534,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring Security/1. 초기화 과정 이해.md"
+                "file": "뉴딜/SQL/240430.md"
               }
             }
           }
@@ -555,43 +555,44 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "83072e214bab6a21",
+  "active": "a8f7e9f37d6f7453",
   "lastOpenFiles": [
-    "Spring Security/1. 초기화 과정 이해 1.md",
-    "Spring Security/1. 초기화 과정 이해.md",
-    "Spring-Boot/Entity.md",
-    "Spring Security/9. 인가 아키텍쳐.md",
-    "Spring Security/8. 인가 프로세스.md",
-    "Spring Security/7. 악용 보호.md",
-    "Spring Security/6. 예외 처리.md",
-    "Spring Security/5. 세션 관리.md",
-    "Spring Security/4. 인증 상태 영속성.md",
-    "Spring Security/3. 인증 아키텍쳐.md",
+    "뉴딜/SQL/240429.md",
+    "뉴딜/SQL/240430.md",
     "Spring Security/2. 인증 프로세스.md",
-    "Spring Security/13. 실전 프로젝트.md",
-    "Spring Security/12. 고급설정.md",
-    "Spring Security/11. 통합하기.md",
-    "Spring Security/10. 이벤트 처리.md",
-    "Spring Security",
-    "Spring-Boot/JPA.md",
-    "Spring-Boot/My first Web App by Spring.md",
-    "Spring-Boot/Spring Boot REST API.md",
+    "무제 폴더 1",
+    "뉴딜",
+    "Spring Security/1. 초기화 과정 이해.md",
+    "Spring Security/Udemy Spring JWT/JWT 사용하기.md",
+    "Spring Security/Udemy Spring JWT",
+    "Spring/Spring Famework.md",
+    "CS 스터디/Ch.2 네트워크/S6. 질문.md",
+    "CS 스터디/Ch.2 네트워크/S0. 노트.md",
+    "CS 스터디/Ch.2 네트워크/S2. TCP IP 4계층 모델.md",
+    "CS 스터디/Ch.2 네트워크/S1. 네트워크의 기초.md",
+    "CS 스터디/Ch.2 네트워크/S3. 네트워크 기기.md",
+    "스니핑과.md",
+    "CS 스터디/Ch.2 네트워크/S5. HTTP.md",
+    "CS 스터디/Ch.2 네트워크/S4. IP 주소.md",
     "CS 스터디/Ch.1 디자인 패턴과 프로그래밍 패러다임/디자인 패턴.md",
-    "JPAStudy/Chapter 3.md",
+    "CS 스터디/Ch.2 네트워크",
+    "Spring/의존성 주입 타입.md",
+    "Spring/어노테이션 정리.md",
+    "기술부채.md",
+    "Spring-Boot/Spring Security.md",
+    "Spring-Boot/Spring Boot REST API.md",
+    "Spring-Boot/SpringBoot.md",
+    "Spring-Boot/Validations with Spring Boot.md",
+    "Spring/Bean Scope.md",
+    "Spring/Spring container, Bean Factory, Application Context.md",
+    "Spring/try-with-resources.md",
+    "Spring/PostConstruct & PreDestroy.md",
+    "Spring Security",
     "CS 스터디/Ch.1 디자인 패턴과 프로그래밍 패러다임",
     "CS 스터디",
-    "JPAStudy/Chapter 4.md",
-    "README.md",
-    "JPAStudy/Chapter 2.md",
-    "JPAStudy/Chapter 1.md",
-    "JPAStudy/NOTE.md",
-    "무제 폴더",
-    "Algorithme/Floyd Warshall(플로이드 와샬) 알고리즘.md",
+    "뉴딜/SQL",
     "JPAStudy",
     "Algorithme",
-    "JAVA",
-    "Spring-Boot",
-    "Spring",
     "무제 파일.canvas"
   ]
 }
