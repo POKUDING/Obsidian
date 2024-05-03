@@ -260,6 +260,30 @@
             }
           },
           {
+            "id": "bf895cc9db04028a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "뉴딜/SQL/240430.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70a93ba441fdc0da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "뉴딜/SQL/240502.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a918fed6b602f9fb",
             "type": "leaf",
             "state": {
@@ -428,7 +452,7 @@
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -494,7 +518,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "뉴딜/SQL/240430.md",
+                "file": "뉴딜/SQL/240502.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -511,7 +535,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "뉴딜/SQL/240430.md",
+                "file": "뉴딜/SQL/240502.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -534,7 +558,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "뉴딜/SQL/240430.md"
+                "file": "뉴딜/SQL/240502.md"
               }
             }
           }
@@ -555,10 +579,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a8f7e9f37d6f7453",
+  "active": "70a93ba441fdc0da",
   "lastOpenFiles": [
-    "뉴딜/SQL/240429.md",
     "뉴딜/SQL/240430.md",
+    "뉴딜/SQL/240502.md",
+    "mongodb java/mongodb java 연결.md",
+    "mongodb java",
+    "뉴딜/SQL/240429.md",
     "Spring Security/2. 인증 프로세스.md",
     "무제 폴더 1",
     "뉴딜",
@@ -585,14 +612,11 @@
     "Spring-Boot/Validations with Spring Boot.md",
     "Spring/Bean Scope.md",
     "Spring/Spring container, Bean Factory, Application Context.md",
-    "Spring/try-with-resources.md",
-    "Spring/PostConstruct & PreDestroy.md",
     "Spring Security",
     "CS 스터디/Ch.1 디자인 패턴과 프로그래밍 패러다임",
     "CS 스터디",
     "뉴딜/SQL",
     "JPAStudy",
-    "Algorithme",
     "무제 파일.canvas"
   ]
 }
